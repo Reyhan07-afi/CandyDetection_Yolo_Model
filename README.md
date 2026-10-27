@@ -50,6 +50,10 @@ The trained model saves its weights in the training results directory. The best-
 
 The prediction stage generates images containing detected objects, bounding boxes, and class labels.
 
+## Sample Detection Output
+
+![YOLO Object Detection Result](Screenshot 2026-10-28 002637.png)
+
 ## Dataset
 
 The project follows the dataset preparation process described in the notebook. Refer to the notebook for the sample dataset download instructions and the required folder structure.
